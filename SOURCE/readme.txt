@@ -4,6 +4,6 @@ Hướng dẫn cài đặt và sử dụng:
 - Chạy file main.py, nếu chưa có tài khoản thì tạo tài khoản, chọn sign up để đăng ký. 
 - Tạo tài khoản thành công, vào game bằng log in. 
 
-Đường dẫn GitHub: 
+Đường dẫn GitHub: https://github.com/bumbleboo021/Group7MummyMaze
 
 *Note: vì dung lượng báo cáo cũng quá giới hạn moodle nên file Report.pdf cũng sẽ ở trong đường dẫn GitHub ạ.
